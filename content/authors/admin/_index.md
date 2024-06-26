@@ -24,13 +24,15 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: McGill University; Mila - Québec AI Institute
+  - name: "McGill University"
+    url: https://mcgill-nlp.github.io/people/ # TODO: add personal page
+  - name: "Mila - Québec AI Institute"
     url: https://mila.quebec/en/ian-porada
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'mailto:ian.porada@mail.mcgill.ca'
     label: E-mail Me
   # - icon: brands/x
@@ -182,4 +184,4 @@ interests:
 
 ## About Me
 
-I’m a PhD student in computer science advised by **Jackie Chi Kit Cheung** at **McGill University** and **Mila**. My current research focus is on fundamental knowledge acquisition and coreference. Colloquially, I am studying ways computers might represent the commonsense knowledge needed to understand what natural language is referencing in the world.
+I’m a PhD student in computer science advised by [Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/) at [McGill](https://mcgill-nlp.github.io/) and [Mila](https://mila.quebec/). My current research focuses on knowledge acquisition and coreference. Colloquially, I am studying ways computers might represent the commonsense knowledge needed to understand what natural language is referencing in the world.
