@@ -182,4 +182,4 @@ interests:
 
 ## About Me
 
-I’m a PhD student in computer science advised by Jackie Chi Kit Cheung at McGill University and Mila. I'm interested in computational models of the semantics of natural languages. My current research focus is on fundamental knowledge acquisition and coreference of linguistic expressions. Colloquially, I am studying ways computers might represent commonsense knowledge needed to understand what language is referencing in the world.
+I’m a PhD student in computer science advised by **Jackie Chi Kit Cheung** at **McGill University** and **Mila**. My current research focus is on fundamental knowledge acquisition and coreference. Colloquially, I am studying ways computers might represent the commonsense knowledge needed to understand what natural language is referencing in the world.

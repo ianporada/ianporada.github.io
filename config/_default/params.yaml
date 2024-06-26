@@ -17,7 +17,7 @@ marketing:
     description: 'A PhD student studying computational models of semantics.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-PGTLF43L71'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Ian Porada"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Ian Porada. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
