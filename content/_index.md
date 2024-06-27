@@ -17,14 +17,14 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Porada_CV.pdf
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: stacked-peaks-copy.svg
           filters:
             brightness: 1.0
           size: cover
@@ -42,7 +42,7 @@ sections:
       view: citation
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['4rem', '20px', '2rem', '20px']
+        padding: ['5rem', '20px', '2rem', '20px']
   - block: markdown
     content:
       title: Contact

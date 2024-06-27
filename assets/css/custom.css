@@ -8,6 +8,10 @@ h1 {
     /* font-family: Georgia, 'Times New Roman', Times, serif; */
 }
 
+.mb-2:not(.mt-6) {
+    margin-bottom: 0;
+}
+
 .mb-6 {
     margin-bottom: 0;
 }
