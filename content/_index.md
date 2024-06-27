@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "0rem"
 
 sections:
   - block: resume-biography-3
@@ -30,6 +30,9 @@ sections:
           size: cover
           position: center
           parallax: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0rem', '20px', '2rem', '20px']
   - block: collection
     content:
       title: Selected Publications
@@ -42,7 +45,7 @@ sections:
       view: citation
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['5rem', '20px', '2rem', '20px']
+        padding: ['4rem', '20px', '4rem', '20px']
   - block: markdown
     content:
       title: Contact
@@ -50,5 +53,5 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['4rem', '20px', '2rem', '20px']
+        padding: [0, '20px', 0, '20px']
 ---

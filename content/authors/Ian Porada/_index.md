@@ -25,6 +25,7 @@ role: PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: "McGill University"
+    icon: envelope
     url: https://mcgill-nlp.github.io/people/ # TODO: add personal page
   - name: "Mila - Québec AI Institute"
     url: https://mila.quebec/en/ian-porada
@@ -43,11 +44,16 @@ profiles:
   #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=gQxa3i8AAAAJ
+  
+  # - icon: "custom/martlet_white"
+  #   url: https://scholar.google.com/citations?user=gQxa3i8AAAAJ
+  # - icon: "custom/mila_logo_white"
+  #   url: https://scholar.google.com/citations?user=gQxa3i8AAAAJ
 
-interests:
-  - Commonsense Reasoning
-  - Reference and Anaphora
-  - Systematicity
+# interests:
+#   - Commonsense Reasoning
+#   - Reference and Anaphora
+#   - Systematicity
 
 # education:
 #   - area: PhD Computer Science
