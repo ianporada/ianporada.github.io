@@ -9,9 +9,12 @@ date: '2021-06-01'
 publishDate: '2024-06-26T20:12:47.844679Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 2021 Conference of the North American Chapter of
-  the Association for Computational Linguistics: Human Language Technologies*'
-doi: 10.18653/v1/2021.naacl-main.138
+publication: '*NAACL 2021*'
+
+url_code: 'https://github.com/ianporada/modeling_event_plausibility'
+featured: true
+url_slides: 'porada-modeling-2021-slides.pdf'
+
 abstract: Understanding natural language requires common sense, one aspect of which
   is the ability to discern the plausibility of events. While distributional models—most
   recently pre-trained, Transformer language models—have demonstrated improvements

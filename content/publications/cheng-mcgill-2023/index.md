@@ -11,9 +11,7 @@ date: '2023-12-01'
 publishDate: '2024-06-26T20:12:47.794515Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the BabyLM Challenge at the 27th Conference on Computational
-  Natural Language Learning*'
-doi: 10.18653/v1/2023.conll-babylm.18
+publication: '*BabyLM Shared Task 2023*'
 links:
 - name: URL
   url: https://aclanthology.org/2023.conll-babylm.18

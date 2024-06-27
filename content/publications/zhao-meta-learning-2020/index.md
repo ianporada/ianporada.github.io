@@ -11,8 +11,7 @@ date: '2020-05-01'
 publishDate: '2024-06-26T20:12:47.830194Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 19th International Conference on Autonomous Agents
-  and MultiAgent Systems*'
+publication: '*AAMAS 2020*'
 abstract: Temporal-Difference (TD) learning is a standard and very successful reinforcement
   learning approach, at the core of both algorithms that learn the value of a given
   policy, as well as algorithms which learn how to improve policies. TD-learning with

@@ -11,10 +11,7 @@ date: '2021-08-01'
 publishDate: '2024-06-26T20:12:47.815195Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 59th Annual Meeting of the Association for Computational
-  Linguistics and the 11th International Joint Conference on Natural Language Processing
-  (Volume 1: Long Papers)*'
-doi: 10.18653/v1/2021.acl-long.553
+publication: '*ACL 2021*'
 abstract: A false contract is more likely to be rejected than a contract is, yet a
   false key is less likely than a key to open doors. While correctly interpreting
   and assessing the effects of such adjective-noun pairs (e.g., false key) on the

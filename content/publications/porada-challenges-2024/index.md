@@ -9,10 +9,13 @@ authors:
 - Jackie Chi Kit Cheung
 date: '2024-06-01'
 publishDate: '2024-06-26T20:12:47.822532Z'
+
+url_code: 'https://github.com/ianporada/coref-data'
+featured: true
+
 publication_types:
 - manuscript
-publication: '*arXiv*'
-doi: 10.48550/arXiv.2303.09092
+publication: '*ACL Findings 2024*'
 abstract: It is increasingly common to evaluate the same coreference resolution (CR)
   model on multiple datasets. Do these multi-dataset evaluations allow us to draw
   meaningful conclusions about model generalization? Or, do they rather reflect the

@@ -8,9 +8,7 @@ date: '2023-12-01'
 publishDate: '2024-06-26T20:12:47.787473Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the CRAC 2023 Shared Task on Multilingual Coreference
-  Resolution*'
-doi: 10.18653/v1/2023.crac-sharedtask.5
+publication: '*CRAC Shared Task 2023*'
 abstract: Our submission to the CRAC 2023 shared task, described herein, is an adapted
   entity-ranking model jointly trained on all 17 datasets spanning 12 languages. Our
   model outperforms the shared task baselines by a difference in F1 score of +8.47,
