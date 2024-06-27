@@ -1,3 +1,17 @@
 .published-with-hugo {
     font-size: small;
 }
+
+h1 {
+    font-size: 2rem !important;
+    /* font-weight: normal !important; */
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+}
+
+.mb-6 {
+    margin-bottom: 0;
+}
+
+.mt-16 {
+    margin-top: 3rem;
+}
