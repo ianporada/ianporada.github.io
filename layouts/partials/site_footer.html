@@ -1,0 +1,22 @@
+<footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
+
+  {{ partial "functions/get_hook" (dict "hook" "footer-start" "context" .) }}
+
+  {{/* Load footer block */}}
+  {{ $footer_section_name := site.Params.footer.blox | default "minimal" }}
+  {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
+  {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
+    {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
+  {{ end }}
+  {{ partial $footer_section_path . }}
+
+  <p class="powered-by published-with-hugo text-center">
+    {{ $default := "Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder." }}
+    {{ $published_with := site.Params.footer.published_with | default $default }}
+    {{ $published_with = replace $published_with "{hugoblox}" "<a href=\"https://hugoblox.com/?utm_campaign=poweredby\" target=\"_blank\" rel=\"noopener\">Hugo Blox</a>" | safeHTML }}
+    {{ $published_with = replace $published_with "{repo_link}" "<a href=\"https://github.com/HugoBlox/hugo-blox-builder\" target=\"_blank\" rel=\"noopener\">" | safeHTML }}
+    {{ $published_with = replace $published_with "{/repo_link}" "</a>" | safeHTML }}
+    {{ $published_with | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}
+  </p>
+
+</footer>

@@ -40,12 +40,13 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Ian Porada. This work is licensed under {license}'
+    notice: '© {year} Ian Porada. {license}'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  published_with: 'Powered by {hugoblox}'
 
 # Localization
 locale:

@@ -10,9 +10,7 @@ date: '2024-06-01'
 publishDate: '2024-06-26T20:12:47.776946Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 2024 Conference of the North American Chapter of
-  the Association for Computational Linguistics: Human Language Technologies (Volume
-  2: Short Papers)*'
+publication: '*NAACL 2024*'
 abstract: Current end-to-end coreference resolution models combine detection of singleton
   mentions and antecedent linking into a single step. In contrast, singleton detection
   was often treated as a separate step in the pre-neural era. In this work, we show
