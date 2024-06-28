@@ -25,9 +25,10 @@ role: PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: "McGill University"
-    icon: envelope
+    icon: "custom/martlet_white"
     url: https://mcgill-nlp.github.io/people/ # TODO: add personal page
-  - name: "Mila - Québec AI Institute"
+  - name: "Mila AI Institute"
+    icon: "custom/mila_logo_white"
     url: https://mila.quebec/en/ian-porada
 
 # Social network links
@@ -44,11 +45,6 @@ profiles:
   #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=gQxa3i8AAAAJ
-  
-  # - icon: "custom/martlet_white"
-  #   url: https://scholar.google.com/citations?user=gQxa3i8AAAAJ
-  # - icon: "custom/mila_logo_white"
-  #   url: https://scholar.google.com/citations?user=gQxa3i8AAAAJ
 
 # interests:
 #   - Commonsense Reasoning
@@ -66,4 +62,6 @@ profiles:
 
 I’m a PhD student in computer science advised by [Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/) at [McGill](https://mcgill-nlp.github.io/) and [Mila](https://mila.quebec/). My current research focuses on knowledge acquisition and coreference.
 
-Colloquially, I'm studying ways computers might represent the commonsense knowledge needed to understand what natural language is referencing in the world.
+Colloquially, I'm studying ways computers might represent the commonsense knowledge needed to understand what natural language is referencing in the world. E.g., when I say that *yesterday I ate an apple and threw out the core*, how can one computationally represent that the phrase *an apple* is referring to some object in the world and *the core* is referring to a part of that same object?
+
+I'm lucky to be supported by a fellowship from the [FRQ-NT](https://frq.gouv.qc.ca/en/nature-and-technologies/) (Fonds de recherche du Québec, Nature and Technologies).

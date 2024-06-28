@@ -21,3 +21,12 @@ h1 {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.bio-organization {
+    display: inline-flex;
+    white-space: nowrap;
+}
+
+.bio-organization > svg {
+    padding-right: 5px;
+}
