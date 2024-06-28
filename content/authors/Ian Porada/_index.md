@@ -60,8 +60,8 @@ profiles:
 
 ## About Me
 
-I’m a PhD student in computer science advised by [Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/) at [McGill](https://mcgill-nlp.github.io/) and [Mila](https://mila.quebec/). My current research focuses on knowledge acquisition and coreference.
+I’m a PhD student in computer science advised by [Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/) at [McGill](https://mcgill-nlp.github.io/) and [Mila](https://mila.quebec/). My current research focus is knowledge acquisition and coreference.
 
-Colloquially, I'm studying ways computers might represent the commonsense knowledge needed to understand what natural language is referencing in the world. E.g., when I say that *yesterday I ate an apple and threw out the core*, how can one computationally represent that the phrase *an apple* is referring to some object in the world and *the core* is referring to a part of that same object?
+Colloquially, I'm studying computational approaches to representing knowledge, especially the types of general, commonsense knowledge needed for understanding what natural language is referring to in the world. For instance, if I say that *yesterday I ate an apple and threw out the core*, what knowledge does it take to figure out that the phrase *an apple* is referring to some object in the world and *the core* is referring to a part of that same object?
 
-I'm lucky to be supported by a fellowship from the [FRQ-NT](https://frq.gouv.qc.ca/en/nature-and-technologies/) (Fonds de recherche du Québec, Nature and Technologies).
+I'm lucky to be supported by a fellowship from the [FRQ-NT](https://frq.gouv.qc.ca/en/nature-and-technologies/) (Fonds de recherche du Québec, Nature and Technologies). During my PhD, I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) and [Google Research](https://research.google/). I'm originally from Colorado.

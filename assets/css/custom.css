@@ -8,8 +8,13 @@ h1 {
     /* font-family: Georgia, 'Times New Roman', Times, serif; */
 }
 
+.mb-1 {
+    margin-bottom: 5px;
+}
+
 .mb-2:not(.mt-6) {
-    margin-bottom: 0;
+    margin-bottom: 0px;
+    margin-top: 2px;
 }
 
 .mb-6 {
@@ -27,6 +32,14 @@ h1 {
     white-space: nowrap;
 }
 
+.bio-organization:hover {
+    color: rgb(110, 231, 183);
+}
+
 .bio-organization > svg {
     padding-right: 5px;
+}
+
+.bio-organization:hover > svg path {
+    fill: rgb(110, 231, 183);
 }
