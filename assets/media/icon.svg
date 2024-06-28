@@ -4,19 +4,25 @@
     <style>
       .cls-1 {
         fill: #ebf7f5;
-        font-family: Arial-Black, 'Arial Black';
+        font-family: Arial-BoldMT, Arial;
         font-size: 255.7px;
-        font-weight: 800;
+        font-weight: 700;
       }
 
-      .cls-2 {
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
         fill: #024f42;
         stroke-width: 0px;
       }
     </style>
   </defs>
   <g id="Layer_2" data-name="Layer 2">
-    <rect class="cls-2" width="300" height="300"/>
+    <rect class="cls-3" width="300" height="300" rx="124.9" ry="124.9"/>
   </g>
-  <text class="cls-1" transform="translate(62.7 240.5)"><tspan x="0" y="0">P</tspan></text>
+  <g class="cls-2">
+    <text class="cls-1" transform="translate(71.7 243.5)"><tspan x="0" y="0">P</tspan></text>
+  </g>
 </svg>
