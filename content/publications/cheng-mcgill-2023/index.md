@@ -11,7 +11,7 @@ date: '2023-12-01'
 publishDate: '2024-06-26T20:12:47.794515Z'
 publication_types:
 - paper-conference
-publication: '*BabyLM Shared Task 2023*'
+publication: '*CoNLL-BabyLM Shared Task 2023*'
 links:
 - name: URL
   url: https://aclanthology.org/2023.conll-babylm.18

@@ -8,7 +8,7 @@ date: '2019-11-01'
 publishDate: '2024-06-26T20:12:47.837501Z'
 publication_types:
 - paper-conference
-publication: '*EMNLP COIN Workshop 2019*'
+publication: '*EMNLP-COIN Workshop 2019*'
 abstract: Modeling semantic plausibility requires commonsense knowledge about the
   world and has been used as a testbed for exploring various knowledge representations.
   Previous work has focused specifically on modeling physical plausibility and shown
