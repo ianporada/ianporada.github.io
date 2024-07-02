@@ -7,8 +7,8 @@ authors:
 - Kaheer Suleman
 - Adam Trischler
 - Jackie Chi Kit Cheung
-date: '2024-08-01'
-publishDate: '2024-08-26T20:12:47.822532Z'
+date: '2024-07-01'
+publishDate: '2024-07-01T20:12:47.822532Z'
 
 url_code: 'https://github.com/ianporada/coref-data'
 featured: true
