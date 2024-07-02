@@ -37,8 +37,8 @@ profiles:
   - icon: envelope
     url: 'mailto:ian.porada@mail.mcgill.ca'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
+  - icon: brands/x
+    url: https://twitter.com/ian_porada
   - icon: brands/github
     url: https://github.com/ianporada
   # - icon: brands/linkedin
