@@ -36,13 +36,15 @@ organizations:
 profiles:
   - icon: envelope
     url: 'mailto:ian.porada@mail.mcgill.ca'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/ian_porada
+  #   label: E-mail Me
+  # - icon: brands/x
+  #   url: https://twitter.com/ian_porada
   - icon: brands/github
     url: https://github.com/ianporada
+  # - icon: "custom/hf-logo-pirate"
+  #   url: https://huggingface.co/ianporada
   # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  #   url: https://www.linkedin.com/in/ian-porada/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=gQxa3i8AAAAJ
 
