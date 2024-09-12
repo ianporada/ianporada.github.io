@@ -1,3 +1,8 @@
+# Ian's Notes:
+
+* See https://docs.hugoblox.com/getting-started/install-hugo/ for how to make changes locally.
+* See https://stackoverflow.com/questions/56577184/github-pull-changes-from-a-template-repository for how to sync template changes (e.g. run `git fetch --all` and `git merge template/main --allow-unrelated-histories`)
+
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
