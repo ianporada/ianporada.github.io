@@ -7,6 +7,7 @@ authors:
 - Jackie Cheung
 date: '2022-07-01'
 publishDate: '2024-10-17T06:14:31.329225Z'
+featured: true
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2022 Conference of the North American Chapter of

@@ -7,6 +7,7 @@ authors:
 - Jackie Chi Kit Cheung
 date: '2021-06-01'
 publishDate: '2024-10-17T06:14:31.365333Z'
+featured: true
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2021 Conference of the North American Chapter of
