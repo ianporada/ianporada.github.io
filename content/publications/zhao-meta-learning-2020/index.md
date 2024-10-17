@@ -8,10 +8,11 @@ authors:
 - Xiao-Wen Chang
 - Doina Precup
 date: '2020-05-01'
-publishDate: '2024-06-26T20:12:47.830194Z'
+publishDate: '2024-10-17T06:14:31.350988Z'
 publication_types:
 - paper-conference
-publication: '*AAMAS 2020*'
+publication: '*Proceedings of the 19th International Conference on Autonomous Agents
+  and MultiAgent Systems*'
 abstract: Temporal-Difference (TD) learning is a standard and very successful reinforcement
   learning approach, at the core of both algorithms that learn the value of a given
   policy, as well as algorithms which learn how to improve policies. TD-learning with

@@ -6,15 +6,12 @@ authors:
 - Alessandro Sordoni
 - Jackie Cheung
 date: '2022-07-01'
-publishDate: '2024-06-26T20:12:47.808166Z'
-
-url_code: 'https://aclanthology.org/2022.naacl-main.337/'
-featured: true
-url_slides: 'porada-does-2022-slides.pdf'
-
+publishDate: '2024-10-17T06:14:31.329225Z'
 publication_types:
 - paper-conference
-publication: '*NAACL 2022*'
+publication: '*Proceedings of the 2022 Conference of the North American Chapter of
+  the Association for Computational Linguistics: Human Language Technologies*'
+doi: 10.18653/v1/2022.naacl-main.337
 abstract: Transformer models pre-trained with a masked-language-modeling objective
   (e.g., BERT) encode commonsense knowledge as evidenced by behavioral probes; however,
   the extent to which this knowledge is acquired by systematic inference over the

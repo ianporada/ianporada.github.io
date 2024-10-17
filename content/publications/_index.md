@@ -1,7 +1,6 @@
 ---
 title: Publications
 cms_exclude: true
-id: publications
 
 # View.
 view: citation
@@ -10,5 +9,4 @@ view: citation
 banner:
   caption: ''
   image: ''
-      
 ---

@@ -5,15 +5,11 @@ authors:
 - Xiyuan Zou
 - Jackie Chi Kit Cheung
 date: '2024-05-01'
-publishDate: '2024-06-26T20:12:47.801089Z'
-
-url_code: 'https://github.com/ianporada/coref-reeval'
-featured: true
-url_poster: 'porada-controlled-2024-poster.pdf'
-
+publishDate: '2024-10-17T06:14:31.322244Z'
 publication_types:
 - paper-conference
-publication: '*LREC-COLING 2024*'
+publication: '*Proceedings of the 2024 Joint International Conference on Computational
+  Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*'
 abstract: All state-of-the-art coreference resolution (CR) models involve finetuning
   a pretrained language model. Whether the superior performance of one CR model over
   another is due to the choice of language model or other factors, such as the task-specific
