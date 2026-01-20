@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A PhD student studying computational models of semantics.'
+    description: 'Researcher studying natural language.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: 'G-PGTLF43L71'
@@ -46,7 +46,7 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-  published_with: 'Last updated October 17, 2024 | Powered by {hugoblox}'
+  published_with: 'Last updated January 19, 2026 | Powered by {hugoblox}'
 
 # Localization
 locale:

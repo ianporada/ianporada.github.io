@@ -20,16 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: "McGill University"
-    icon: "custom/martlet_white"
-    url: https://mcgill-nlp.github.io/people/ # TODO: add personal page
-  - name: "Mila AI Institute"
-    icon: "custom/mila_logo_white"
-    url: https://mila.quebec/en/ian-porada
+  - icon: "custom/otter_logo_white"
+    url: https://otter.ai/ # TODO: add 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -62,9 +58,9 @@ profiles:
 
 ## About Me
 
-I’m a PhD student in computer science advised by [Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/) at [McGill](https://mcgill-nlp.github.io/) and [Mila](https://mila.quebec/). Currently, I'm a visiting student researcher at the [Machine Learning and Mind Lab (MLML)](https://mlml.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/).
+I am currently a research scientist at [Otter.ai](https://otter.ai/). I previously completed a PhD in computer science advised by [Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/) at [McGill](https://mcgill-nlp.github.io/) and [Mila](https://mila.quebec/).
 
-My  research focus is knowledge acquisition and coreference. Colloquially, I'm studying computational approaches to representing knowledge, especially the types of general, commonsense knowledge needed for understanding what natural language is referring to in the world.
+My primary research focus has been knowledge acquisition and coreference. Colloquially, I'm interested in computational approaches to representing knowledge, especially the types of general, commonsense knowledge needed for understanding what natural language is referring to in the world.
 <!-- For instance, if I say that *yesterday I ate an apple and threw out the core*, what knowledge does it take to figure out that the phrase *an apple* is referring to some object in the world and *the core* is referring to a part of that same object? How can this knowledge be acquired and represented? -->
 
-I'm lucky to be supported by a fellowship from the [FRQ-NT](https://frq.gouv.qc.ca/en/nature-and-technologies/) (Fonds de recherche du Québec, Nature and Technologies). During my PhD, I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) and [Google Research](https://research.google/). I previously completed a BSc in computer science at [Stevens Institute of Technology](https://www.stevens.edu/), and I'm originally from Colorado.
+During my PhD, I was lucky to be supported by a fellowship from the [FRQ-NT](https://frq.gouv.qc.ca/en/nature-and-technologies/) (Fonds de recherche du Québec, Nature and Technologies). I previously interned at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) and [Google Research](https://research.google/) and completed a BSc in computer science at [Stevens Institute of Technology](https://www.stevens.edu/).

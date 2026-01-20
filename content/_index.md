@@ -49,7 +49,7 @@ sections:
   - block: markdown
     content:
       title: Contact
-      text: "ian.porada (at) mail.mcgill.ca <br> 6666 St-Urbain, #200 Montreal, QC, H2S 3H1"
+      text: "ian.porada (at) mail.mcgill.ca <br> Mountain View, California"
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
